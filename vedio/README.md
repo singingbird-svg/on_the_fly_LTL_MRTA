@@ -26,4 +26,4 @@ This video shows how the system updates the execution plan and assigns robot `r2
 
 This video shows the real-world execution of the proposed approach on physical robots, including task execution and online replanning.
 
-[Watch or download `on_the_fly.mp4`](on_the_fly.mp4)
+[Watch or download `OTLTA_physical.mp4`](OTLTA_physical.mp4)
